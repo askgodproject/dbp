@@ -1,2 +1,2 @@
-# dbp
-Library for accessing the Digital Bible Platform API
+# Digital Bible Platform (DBP) Library
+Python library for accessing the Digital Bible Platform API
